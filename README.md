@@ -3,6 +3,8 @@ This repo has different Codes for kaggle competition
 
 We have used pre-trained model, I tried 3 pretrained models and vgg is the best one. 
 
-# We need segmentation, Yes we do
+# We need segmentation,
 
-So far, I have tried to segment the leaf only on hsv color space based segmentation and it was not sucessful. 
+So far, We need to segment the leaf or other area that the model need to focus.
+`cv_segment.ipynb`
+`main_cam.ipynb`
